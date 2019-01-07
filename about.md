@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Qing Jia, an developer, a father, a husband and a son
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Working on lots of things now.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[qing.jia@yahoo.com](mailto:email@domain.com)
