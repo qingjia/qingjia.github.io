@@ -4,11 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Qing Jia, an developer, a father, a husband and a son
+Qing Jia, a developer, a father, a husband and a son
 
 ### More Information
+Live in Beijing more than 10 years. 
+workingg on lots of things now:
+* Python
+* Android
 
-Working on lots of things now.
-### Contact me
+want to do some interesting stuff after work:
 
-[qing.jia@yahoo.com](mailto:email@domain.com)
+* build a website for small business
+* RTOS on ARM M3 
+
+### Don't Contact me
+
+[email@domain.com](mailto:email@domain.com)
