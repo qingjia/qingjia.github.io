@@ -1,11 +1,16 @@
 ---
 layout: post
 title: Calculate Primes with Python 
+categories: [Python]
+tags: [Python, Prime,Lambda]
+
 ---
 The program print the primes less than 30 with lambda and yield operator.
 
 
-```
+
+
+```python
 from itertools import count
 
 def _not_divided(n):
@@ -24,3 +29,6 @@ if __name__== "__main__":
             break
         print("i = %d" % i)
 ```
+
+
+
